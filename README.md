@@ -10,7 +10,7 @@ __版本号：3.2.1版本__
 
 __本次更新时间：2023年10月3日__
 
-_[点击我跳转到GitHub界面哦~](https://github.com/fourlight/hyc)_
+_[点击我跳转到Pypi界面哦~](https://pypi.org/project/hyc/)_
 
 ---
 ## 更新记录
